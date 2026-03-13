@@ -1,0 +1,5 @@
+export(my_mean)
+export(moment)
+export(my_variance)
+export(my_kurtosis)
+export(my_skewness)

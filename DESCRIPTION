@@ -1,0 +1,13 @@
+Package: centralMoments
+Title: Moments about the mean
+Description: This package computes the main moments about the mean and the mean itself.The package then returns values to 4 decimal places.
+Version: 1.0.0
+Authors@R: person(
+    given="Kelly",
+    middle="J", 
+    family="Kyagambiddwa",
+    email="kyagambiddwaj@gmail.com",
+    role=c("aut","cre","cph")
+    )
+License: MIT + file LICENSE
+Video: https://youtu.be/pXOCRCwZt-E
